@@ -1,7 +1,7 @@
 # Explore Weather Trends #
 By: Ardian Ajvazi
 Udacity: Project 1 February 2019
-Include image here
+
 
 
 ## Goal
