@@ -21,8 +21,9 @@ Use Udacity's built in program to extract data using SQL
 //STEP 2 look the global_data
     SELECT * FROM global_data
 
-/* STEP 3 JOIN both tables and select which columns we
-   want and assign unique names to identify easier.*/
+/* STEP 3 Selected the tables I needed  and
+   assigned unique names to identify easier.*/
+
       SELECT
         city_data.city AS city,
         city_data.avg_temp AS City_Avg_Temp,
@@ -117,6 +118,9 @@ Global
 <br />
 Zoomed in year
 ![LineChart](Zoomed.png "Line Chart")
+
+# Moving Average in Excel
+![LineChart](moving-average.png "Line Chart")
 
 # Observation
 
