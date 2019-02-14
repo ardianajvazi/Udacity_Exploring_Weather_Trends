@@ -128,4 +128,4 @@ Zoomed in year
 
 # Resources  
 - Used Plotly to handle line-charts: (https://plot.ly/python/line-charts/)
-- Link to GitHub: ()
+- Link to GitHub: (https://github.com/ardianajvazi/Udacity_Exploring_Weather_Trends)
