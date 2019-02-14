@@ -1,0 +1,458 @@
+city,city_avg_temp,year
+New York,3.26,1743
+New York,11.66,1744
+New York,1.13,1745
+New York,,1746
+New York,,1747
+New York,,1748
+New York,,1749
+New York,10.07,1750
+New York,10.79,1751
+New York,2.81,1752
+New York,9.52,1753
+New York,9.88,1754
+New York,6.61,1755
+New York,9.94,1756
+New York,8.89,1757
+New York,8.15,1758
+New York,9.01,1759
+New York,7.73,1760
+New York,10.18,1761
+New York,9.55,1762
+New York,7.23,1763
+New York,9.55,1764
+New York,8.96,1765
+New York,10.09,1766
+New York,8.52,1767
+New York,8.67,1768
+New York,9.10,1769
+New York,9.04,1770
+New York,10.18,1771
+New York,9.64,1772
+New York,10.08,1773
+New York,9.52,1774
+New York,10.24,1775
+New York,9.13,1776
+New York,8.77,1777
+New York,6.89,1778
+New York,0.25,1779
+New York,,1780
+New York,9.79,1781
+New York,9.15,1782
+New York,8.81,1783
+New York,8.40,1784
+New York,8.49,1785
+New York,8.98,1786
+New York,8.97,1787
+New York,9.77,1788
+New York,9.42,1789
+New York,9.39,1790
+New York,9.37,1791
+New York,8.72,1792
+New York,9.88,1793
+New York,9.83,1794
+New York,9.21,1795
+New York,8.97,1796
+New York,8.85,1797
+New York,9.71,1798
+New York,9.19,1799
+New York,9.58,1800
+New York,10.00,1801
+New York,10.29,1802
+New York,10.07,1803
+New York,9.69,1804
+New York,10.43,1805
+New York,9.38,1806
+New York,9.17,1807
+New York,9.57,1808
+New York,8.87,1809
+New York,9.35,1810
+New York,9.43,1811
+New York,7.80,1812
+New York,8.93,1813
+New York,8.70,1814
+New York,8.27,1815
+New York,7.92,1816
+New York,7.78,1817
+New York,8.13,1818
+New York,9.07,1819
+New York,8.98,1820
+New York,8.53,1821
+New York,9.84,1822
+New York,8.64,1823
+New York,9.29,1824
+New York,10.21,1825
+New York,9.92,1826
+New York,9.26,1827
+New York,10.70,1828
+New York,9.17,1829
+New York,10.32,1830
+New York,9.07,1831
+New York,9.15,1832
+New York,9.15,1833
+New York,9.32,1834
+New York,8.48,1835
+New York,7.51,1836
+New York,8.12,1837
+New York,8.73,1838
+New York,9.17,1839
+New York,9.27,1840
+New York,9.00,1841
+New York,9.41,1842
+New York,8.49,1843
+New York,9.12,1844
+New York,9.49,1845
+New York,9.66,1846
+New York,9.30,1847
+New York,9.54,1848
+New York,8.83,1849
+New York,9.10,1850
+New York,9.26,1851
+New York,8.98,1852
+New York,9.68,1853
+New York,9.56,1854
+New York,9.11,1855
+New York,8.20,1856
+New York,8.52,1857
+New York,9.13,1858
+New York,9.17,1859
+New York,9.18,1860
+New York,9.47,1861
+New York,9.00,1862
+New York,9.09,1863
+New York,9.29,1864
+New York,9.64,1865
+New York,8.95,1866
+New York,8.59,1867
+New York,7.95,1868
+New York,8.85,1869
+New York,10.04,1870
+New York,8.94,1871
+New York,8.61,1872
+New York,8.44,1873
+New York,9.06,1874
+New York,7.74,1875
+New York,9.35,1876
+New York,10.15,1877
+New York,10.38,1878
+New York,9.37,1879
+New York,9.99,1880
+New York,9.77,1881
+New York,9.22,1882
+New York,8.59,1883
+New York,9.36,1884
+New York,8.37,1885
+New York,8.90,1886
+New York,9.10,1887
+New York,8.31,1888
+New York,9.86,1889
+New York,9.62,1890
+New York,10.00,1891
+New York,9.15,1892
+New York,8.68,1893
+New York,9.95,1894
+New York,9.22,1895
+New York,9.51,1896
+New York,9.63,1897
+New York,10.24,1898
+New York,9.51,1899
+New York,10.40,1900
+New York,9.29,1901
+New York,9.43,1902
+New York,9.32,1903
+New York,7.87,1904
+New York,9.10,1905
+New York,9.90,1906
+New York,8.49,1907
+New York,9.87,1908
+New York,9.51,1909
+New York,9.55,1910
+New York,9.91,1911
+New York,9.24,1912
+New York,10.76,1913
+New York,9.02,1914
+New York,9.85,1915
+New York,9.10,1916
+New York,8.24,1917
+New York,9.51,1918
+New York,10.05,1919
+New York,9.19,1920
+New York,10.91,1921
+New York,10.04,1922
+New York,9.51,1923
+New York,8.85,1924
+New York,9.72,1925
+New York,8.54,1926
+New York,9.70,1927
+New York,9.82,1928
+New York,9.97,1929
+New York,10.22,1930
+New York,11.03,1931
+New York,10.44,1932
+New York,10.18,1933
+New York,9.48,1934
+New York,9.48,1935
+New York,9.73,1936
+New York,10.16,1937
+New York,10.42,1938
+New York,10.07,1939
+New York,8.53,1940
+New York,10.19,1941
+New York,9.96,1942
+New York,9.58,1943
+New York,10.01,1944
+New York,9.94,1945
+New York,10.63,1946
+New York,9.91,1947
+New York,9.83,1948
+New York,11.39,1949
+New York,9.72,1950
+New York,10.27,1951
+New York,10.52,1952
+New York,11.17,1953
+New York,10.31,1954
+New York,10.39,1955
+New York,9.75,1956
+New York,10.50,1957
+New York,9.16,1958
+New York,10.77,1959
+New York,9.76,1960
+New York,10.03,1961
+New York,9.32,1962
+New York,9.32,1963
+New York,9.96,1964
+New York,9.63,1965
+New York,9.75,1966
+New York,9.30,1967
+New York,9.75,1968
+New York,9.76,1969
+New York,9.77,1970
+New York,10.01,1971
+New York,9.49,1972
+New York,10.96,1973
+New York,10.08,1974
+New York,10.56,1975
+New York,9.53,1976
+New York,9.96,1977
+New York,9.17,1978
+New York,10.02,1979
+New York,9.86,1980
+New York,9.95,1981
+New York,9.78,1982
+New York,10.51,1983
+New York,10.26,1984
+New York,10.26,1985
+New York,10.15,1986
+New York,10.32,1987
+New York,9.93,1988
+New York,9.66,1989
+New York,11.32,1990
+New York,11.36,1991
+New York,9.57,1992
+New York,10.04,1993
+New York,10.00,1994
+New York,10.24,1995
+New York,9.81,1996
+New York,10.00,1997
+New York,11.82,1998
+New York,11.16,1999
+New York,9.97,2000
+New York,10.93,2001
+New York,11.25,2002
+New York,9.84,2003
+New York,10.39,2004
+New York,10.68,2005
+New York,11.52,2006
+New York,10.63,2007
+New York,10.64,2008
+New York,10.14,2009
+New York,11.36,2010
+New York,11.27,2011
+New York,11.97,2012
+New York,12.16,2013
+Seattle,7.13,1828
+Seattle,6.80,1829
+Seattle,,1830
+Seattle,,1831
+Seattle,3.52,1832
+Seattle,7.48,1833
+Seattle,7.10,1834
+Seattle,5.58,1835
+Seattle,6.74,1836
+Seattle,6.81,1837
+Seattle,6.59,1838
+Seattle,7.30,1839
+Seattle,6.69,1840
+Seattle,6.81,1841
+Seattle,6.88,1842
+Seattle,6.55,1843
+Seattle,6.41,1844
+Seattle,6.88,1845
+Seattle,,1846
+Seattle,8.99,1847
+Seattle,6.60,1848
+Seattle,6.68,1849
+Seattle,7.06,1850
+Seattle,7.79,1851
+Seattle,7.08,1852
+Seattle,7.61,1853
+Seattle,6.99,1854
+Seattle,7.31,1855
+Seattle,7.44,1856
+Seattle,7.91,1857
+Seattle,6.91,1858
+Seattle,6.27,1859
+Seattle,7.63,1860
+Seattle,7.18,1861
+Seattle,6.36,1862
+Seattle,7.44,1863
+Seattle,7.64,1864
+Seattle,7.05,1865
+Seattle,7.39,1866
+Seattle,7.12,1867
+Seattle,6.99,1868
+Seattle,8.33,1869
+Seattle,7.85,1870
+Seattle,7.97,1871
+Seattle,7.34,1872
+Seattle,7.47,1873
+Seattle,7.32,1874
+Seattle,6.90,1875
+Seattle,7.12,1876
+Seattle,8.14,1877
+Seattle,7.89,1878
+Seattle,6.74,1879
+Seattle,5.95,1880
+Seattle,6.86,1881
+Seattle,6.88,1882
+Seattle,6.97,1883
+Seattle,6.81,1884
+Seattle,8.66,1885
+Seattle,7.85,1886
+Seattle,6.77,1887
+Seattle,7.73,1888
+Seattle,8.08,1889
+Seattle,7.03,1890
+Seattle,7.61,1891
+Seattle,7.54,1892
+Seattle,6.16,1893
+Seattle,6.88,1894
+Seattle,7.26,1895
+Seattle,7.20,1896
+Seattle,7.50,1897
+Seattle,7.60,1898
+Seattle,7.08,1899
+Seattle,7.95,1900
+Seattle,7.27,1901
+Seattle,7.33,1902
+Seattle,6.98,1903
+Seattle,7.70,1904
+Seattle,7.59,1905
+Seattle,7.99,1906
+Seattle,7.28,1907
+Seattle,7.32,1908
+Seattle,6.52,1909
+Seattle,7.24,1910
+Seattle,6.73,1911
+Seattle,7.43,1912
+Seattle,6.99,1913
+Seattle,7.92,1914
+Seattle,8.13,1915
+Seattle,6.23,1916
+Seattle,7.25,1917
+Seattle,7.85,1918
+Seattle,6.94,1919
+Seattle,7.19,1920
+Seattle,7.20,1921
+Seattle,6.66,1922
+Seattle,7.82,1923
+Seattle,7.46,1924
+Seattle,8.26,1925
+Seattle,8.72,1926
+Seattle,7.30,1927
+Seattle,7.86,1928
+Seattle,6.96,1929
+Seattle,7.23,1930
+Seattle,8.00,1931
+Seattle,7.37,1932
+Seattle,7.06,1933
+Seattle,9.04,1934
+Seattle,7.33,1935
+Seattle,7.67,1936
+Seattle,7.39,1937
+Seattle,8.12,1938
+Seattle,8.25,1939
+Seattle,8.81,1940
+Seattle,8.83,1941
+Seattle,8.10,1942
+Seattle,7.51,1943
+Seattle,7.84,1944
+Seattle,7.57,1945
+Seattle,7.39,1946
+Seattle,8.03,1947
+Seattle,6.68,1948
+Seattle,7.05,1949
+Seattle,6.77,1950
+Seattle,7.33,1951
+Seattle,7.56,1952
+Seattle,8.11,1953
+Seattle,7.04,1954
+Seattle,6.09,1955
+Seattle,7.18,1956
+Seattle,7.52,1957
+Seattle,9.28,1958
+Seattle,7.50,1959
+Seattle,7.51,1960
+Seattle,8.12,1961
+Seattle,7.66,1962
+Seattle,7.91,1963
+Seattle,6.83,1964
+Seattle,7.91,1965
+Seattle,7.88,1966
+Seattle,8.38,1967
+Seattle,7.73,1968
+Seattle,7.51,1969
+Seattle,7.55,1970
+Seattle,7.10,1971
+Seattle,7.09,1972
+Seattle,7.58,1973
+Seattle,7.72,1974
+Seattle,7.09,1975
+Seattle,7.46,1976
+Seattle,7.63,1977
+Seattle,7.78,1978
+Seattle,7.88,1979
+Seattle,7.75,1980
+Seattle,8.23,1981
+Seattle,7.35,1982
+Seattle,7.94,1983
+Seattle,7.41,1984
+Seattle,6.71,1985
+Seattle,8.25,1986
+Seattle,8.67,1987
+Seattle,8.10,1988
+Seattle,7.87,1989
+Seattle,8.09,1990
+Seattle,8.20,1991
+Seattle,9.03,1992
+Seattle,7.68,1993
+Seattle,8.35,1994
+Seattle,8.62,1995
+Seattle,7.61,1996
+Seattle,8.41,1997
+Seattle,8.70,1998
+Seattle,7.79,1999
+Seattle,7.72,2000
+Seattle,7.90,2001
+Seattle,8.03,2002
+Seattle,8.74,2003
+Seattle,9.04,2004
+Seattle,8.57,2005
+Seattle,8.49,2006
+Seattle,8.04,2007
+Seattle,7.57,2008
+Seattle,8.02,2009
+Seattle,8.25,2010
+Seattle,7.35,2011
+Seattle,8.08,2012
+Seattle,9.95,2013
